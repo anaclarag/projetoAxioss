@@ -37,7 +37,7 @@ onMounted(async () => {
     color: #fff;
     display: flex;
     justify-content: center;
-  }
+}
   
   .genre-item:hover {
     cursor: pointer;
