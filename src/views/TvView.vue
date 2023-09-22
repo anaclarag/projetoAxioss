@@ -26,6 +26,7 @@ onMounted(async () => {
     gap: 2rem;
     list-style: none;
     padding: 0;
+    
   }
   
   .genre-item {
